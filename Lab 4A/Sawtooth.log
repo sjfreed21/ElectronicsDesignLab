@@ -1,0 +1,24 @@
+Circuit: * C:\Users\sjfre\Documents\LTSpice Sims\Lab 4A\Sawtooth.asc
+
+Per .tran options, skipping operating point for transient analysis.
+Changing Tseed to 1e-08
+Changing Tseed to 1e-10
+Heightened Def Con from 0.0119915 to 0.0119915
+
+Date: Fri Apr 10 15:21:53 2020
+Total elapsed time: 7.264 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1856056
+traniter = 1856056
+tranpoints = 927713
+accept = 556673
+rejected = 371039
+matrix size = 24
+fillins = 0
+solver = Normal
+Matrix Compiler1: 972 bytes object code size  0.2/0.2/[0.1]
+Matrix Compiler2: 1.59 KB object code size  0.1/0.2/[0.1]
+

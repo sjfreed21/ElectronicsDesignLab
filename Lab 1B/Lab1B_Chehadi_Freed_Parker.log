@@ -1,0 +1,21 @@
+Circuit: * C:\Users\sjfre\Documents\LTSpice Sims\Lab 1B\Lab1B_Chehadi_Freed_Parker.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Jan 30 11:45:09 2020
+Total elapsed time: 0.717 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 28411
+traniter = 28406
+tranpoints = 6416
+accept = 5170
+rejected = 1246
+matrix size = 16
+fillins = 0
+solver = Normal
+Matrix Compiler1: 484 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.1
+

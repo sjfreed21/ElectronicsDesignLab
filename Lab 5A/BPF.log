@@ -1,0 +1,60 @@
+Circuit: * C:\Users\sjfre\Documents\LTSpice Sims\Lab 5A\BPF.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+Gmin = 0.000223007
+vernier = 0.666667
+Gmin = 5.72562e-05
+vernier = 0.888888
+vernier = 1
+Gmin = 7.53781e-06
+Gmin = 8.09366e-07
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 2.65213e-07
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+vernier = 0.25
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 455.673 ms.
+
+Date: Wed Apr 29 20:53:02 2020
+Total elapsed time: 3.650 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 849011
+traniter = 98390
+tranpoints = 42308
+accept = 34982
+rejected = 27079
+matrix size = 16
+fillins = 4
+solver = Normal
+Matrix Compiler1: 976 bytes object code size  0.7/0.4/[0.1]
+Matrix Compiler2: 1.46 KB object code size  0.4/0.4/[0.3]
+

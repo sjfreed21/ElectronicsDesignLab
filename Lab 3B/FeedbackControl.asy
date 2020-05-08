@@ -1,0 +1,22 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -80 -48 96 64
+WINDOW 0 -80 -48 Bottom 2
+PIN -80 -32 LEFT 8
+PINATTR PinName C
+PINATTR SpiceOrder 1
+PIN -80 0 LEFT 8
+PINATTR PinName ref
+PINATTR SpiceOrder 2
+PIN -80 32 LEFT 8
+PINATTR PinName sense
+PINATTR SpiceOrder 3
+PIN 96 16 RIGHT 8
+PINATTR PinName b
+PINATTR SpiceOrder 4
+PIN 0 -48 TOP 8
+PINATTR PinName DC10
+PINATTR SpiceOrder 5
+PIN 64 -48 TOP 8
+PINATTR PinName DC5
+PINATTR SpiceOrder 6

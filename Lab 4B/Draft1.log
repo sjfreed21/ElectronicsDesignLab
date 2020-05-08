@@ -1,0 +1,25 @@
+Circuit: * C:\Users\sjfre\Documents\LTSpice Sims\Lab 4B\Draft1.asc
+
+ERROR: Node X3:N002 is floating and connected to current source B:X3:P
+
+WARNING: Less than two connections to node ENC.  This node is used by R:X3:1.
+Per .tran options, skipping operating point for transient analysis.
+Changing Tseed to 1e-08
+
+Date: Thu Apr  9 11:13:44 2020
+Total elapsed time: 2.725 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 315191
+traniter = 315191
+tranpoints = 98461
+accept = 70944
+rejected = 27516
+matrix size = 49
+fillins = 11
+solver = Normal
+Matrix Compiler1: 3.04 KB object code size  0.6/0.3/[0.2]
+Matrix Compiler2: 3.96 KB object code size  0.3/0.5/[0.2]
+

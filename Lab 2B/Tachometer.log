@@ -1,0 +1,25 @@
+Circuit: * C:\Users\sjfre\Documents\LTSpice Sims\Lab 2B\Tachometer.asc
+
+WARNING: Node NC_01 is floating.
+ERROR: Node X1:N002 is floating and connected to current source B:X1:P
+
+WARNING: Less than two connections to node NC_01.  This node is used by I_LOAD_TORQUE_EXT1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Feb 22 13:25:22 2020
+Total elapsed time: 0.726 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 35506
+traniter = 35494
+tranpoints = 10458
+accept = 8260
+rejected = 2198
+matrix size = 31
+fillins = 2
+solver = Normal
+Matrix Compiler1: 982 bytes object code size  1.0/0.5/[0.3]
+Matrix Compiler2: 1.97 KB object code size  0.6/0.9/[0.4]
+
